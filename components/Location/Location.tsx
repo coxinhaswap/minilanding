@@ -17,7 +17,7 @@ export const Location  = ({ main }: LocationProp) => {
 
   const redirect = () => {
     setInterval(function(){
-      if(count >= 0) count--;
+      if(count > 0) count--;
       (window.document.getElementById('countDown') as HTMLElement).innerHTML = String(count);
       if (count == 0) {
         window.location.href = main; 
