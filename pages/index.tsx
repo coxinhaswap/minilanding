@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <meta name="msapplication-TileColor" content="#f6ff9f"/>
         <meta name="theme-color" content="#fffecf"></meta>
       </Head>
-    <Location main={"https://coxinhaswap.finance/"}/>
+    <Location main={"https://www.coxinhaswap.finance/"}/>
     <Image src={'coxinhaswap.png'}/>
     </div>
   )
