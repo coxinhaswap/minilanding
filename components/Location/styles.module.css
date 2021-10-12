@@ -1,0 +1,12 @@
+
+.stripe {
+ position: absolute;
+ top: 0;
+ width: 100vw;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 14px;
+ background: rgb(255, 193, 24);
+ color: rgb(158, 84, 0);
+}
