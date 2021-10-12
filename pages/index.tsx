@@ -20,7 +20,7 @@ const Home: NextPage = () => {
         <meta name="theme-color" content="#fffecf"></meta>
       </Head>
     <Location main={"https://www.coxinhaswap.finance/"}/>
-    <Image src={'coxinhaswap.png'}/>
+    <Image src={'coxinhaswap.png'} href={'https://t.me/CoxinhaSwap'}/>
     </div>
   )
 }
