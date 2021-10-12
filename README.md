@@ -2,19 +2,19 @@
 
 Successfully deployed to the following URLs
 
-- minilanding-git-main-coxinhaswap.vercel.app
-- minilanding-coxinhaswap.vercel.app
-- minilanding.vercel.app
-- www.coxinha.io
-- www.coxinha.finance
-- www.coxinhaswap.finance
-- coxinhaswap.org
-- coxinha.io
-- www.coxinhaswap.org
-- coxinha.finance
-- coxinhaswap.com.br
-- www.coxinhaswap.com.br
-- coxinhaswap.finance
+- https://minilanding-git-main-coxinhaswap.vercel.app
+- https://minilanding-coxinhaswap.vercel.app
+- https://minilanding.vercel.app
+- https://www.coxinha.io
+- https://www.coxinha.finance
+- https://www.coxinhaswap.finance
+- https://coxinhaswap.org
+- https://coxinha.io
+- https://www.coxinhaswap.org
+- https://coxinha.finance
+- https://coxinhaswap.com.br
+- https://www.coxinhaswap.com.br
+- https://coxinhaswap.finance
 
 Correction needed
 
