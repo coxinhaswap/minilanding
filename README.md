@@ -1,5 +1,26 @@
 ## Mini Landing for CoxinhaSwap Public Urls
 
+Successfully deployed to the following URLs
+
+- minilanding-git-main-coxinhaswap.vercel.app
+- minilanding-coxinhaswap.vercel.app
+- minilanding.vercel.app
+- www.coxinha.io
+- www.coxinha.finance
+- www.coxinhaswap.finance
+- coxinhaswap.org
+- coxinha.io
+- www.coxinhaswap.org
+- coxinha.finance
+- coxinhaswap.com.br
+- www.coxinhaswap.com.br
+- coxinhaswap.finance
+
+Correction needed
+
+- www.coxinhaswap.com
+- coxinhaswap.com
+
 ## Getting Started
 
 First, run the development server:
