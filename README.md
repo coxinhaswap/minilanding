@@ -15,11 +15,10 @@ Successfully deployed to the following URLs
 - https://coxinhaswap.com.br
 - https://www.coxinhaswap.com.br
 - https://coxinhaswap.finance
+- https://www.coxinhaswap.com
+- https://coxinhaswap.com
 
-Correction needed
 
-- www.coxinhaswap.com
-- coxinhaswap.com
 
 ## Getting Started
 
